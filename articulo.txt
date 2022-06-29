@@ -1,1 +1,3 @@
 Este es un articulo de prueba en git
+
+Segundo parrafo de la noticia.
